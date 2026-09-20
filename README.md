@@ -22,7 +22,7 @@ Better-Duel is a Chrome extension designed to enhance your Duel.com experience w
 
 Download Tampermonkey - http://tampermonkey.net/
 
-Goto betterduel.js then paste then create a new tampermonkey script and paste it inside.
+Goto betterduel.js then copy and then create a new tampermonkey script and paste it inside.
 
 🛠️ Development
 
